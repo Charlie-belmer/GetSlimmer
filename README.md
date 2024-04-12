@@ -2,6 +2,6 @@
 
 Home of the GetSlimmer iPhone app
 
-For support, please create an issue at https://github.com/Charlie-belmer/GetSlimmer/issues
+For support, please create a [github issue](https://github.com/Charlie-belmer/GetSlimmer/issues)
 
-For our privacy policy, see 
+Also see our [privacy policy](https://slimmerhq.com/PrivacyPolicy.html).
